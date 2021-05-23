@@ -1,0 +1,28 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+font-family: 'Roboto Mono', monospace;
+}
+
+#status
+{
+font-size: 18px;
+font-family: 'Roboto Mono', monospace;
+}
+
+body{
+    background-size:cover ;
+    background-position: center;
+}
+canvas{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px blue solid ;
+}
+
+#number_of_objects{
+    font-size: 25px;
+    font-family: 'Roboto Mono', monospace;
+}
